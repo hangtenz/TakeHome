@@ -1,14 +1,19 @@
-Run Api
+# Run Api
 	- venv\Scripts\activate
 	- python app.py
-Database 
+	
+	
+# Database 
 	- sqlite3 (in memory database)
 	- flask
-url of api
+	
+	
+# url of api
 	- port = 5565
 	- path = /cards
+	
 
-HTTP method
+# HTTP method
 	- POST
 		add cards in database, pass data by json body like this
 		{
